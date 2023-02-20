@@ -13,7 +13,7 @@ gsap.from(".movie", {opacity: 0, duration: 1.4, delay: 1, stagger: .3});
 
 
 function countdown() {
-    const chDate = new Date("February 19, 2023 00:00");
+    const chDate = new Date("March 19, 2023 00:00");
     const now = new Date();
     const diff = chDate - now;
   
